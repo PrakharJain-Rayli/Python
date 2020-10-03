@@ -1,0 +1,12 @@
+For comment we use # 
+and for multiline comment we will use """ 
+Usage-
+
+#Its a single line comment
+
+
+"""
+This paragraph
+will be a comment
+haha...multiline comment in python
+"""
