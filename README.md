@@ -1,2 +1,3 @@
 # Python
 Python learner
+So here i am starting my python programming journey...
