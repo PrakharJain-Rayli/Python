@@ -1,0 +1,41 @@
+#String
+x= "My name is prakhar"
+
+integer
+x=5   or  x = int(5)
+
+float 
+x=20.2
+
+coplex 
+x=1p
+
+list
+x = ["pen", "pencil", "scale"]
+
+Tuple
+x = ("pen", "pencil", "scale")
+
+Range
+x = range(5)
+
+Dictionary
+x = {"name" : "Prakhar", "age" : 20}
+
+set
+x = {"pen", "pencil", "scale"}
+
+frozenset
+x = frozenset({"pen", "pencil", "scale"})		
+
+boolean
+x = True		
+
+bytes
+x = b"Hello"		
+
+bytearray
+x = bytearray(5)	
+
+memoryview
+x = memoryview(bytes(5))	
